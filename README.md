@@ -1,4 +1,4 @@
-## Hi there 👋
+## '<!-- my work is not a job -->'
 
 <!--
 **SamAS400/samas400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
